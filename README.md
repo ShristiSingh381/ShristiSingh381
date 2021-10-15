@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Reactjs,Nextjs**
 
-- 📫 How to reach me **shristisingh384@gmail.com**
+- 📫 Reach me **shristisingh384@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
