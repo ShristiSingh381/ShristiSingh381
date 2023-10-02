@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shristi Singh</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shristisingh381&label=Profile%20views&color=0e75b6&style=flat" alt="shristisingh381" /> </p>
 
-- 🌱 I’m currently learning **Reactjs,Nextjs**
+- 🌱 I’m currently learning **DevOps**
 
 - 📫 Reach me **shristisingh384@gmail.com**
 
